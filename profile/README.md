@@ -23,7 +23,7 @@ For example, the BIRDS BUS uses a distributed system design, not for its perform
 ## Organisation structure
 This treasure trove of information can seem quite daunting to someone on first encounter, so let's go through the repositories we have in this organisation one by one so you can find what you need with ease.
 
-If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation) is readily available in its own repository with other ICD documents.
+If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation) is readily available in its own repository with the complementary Interface Control documents, both in `English` and `Japanese`.
 
 ### Key Features:
 
