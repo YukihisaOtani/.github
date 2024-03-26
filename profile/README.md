@@ -63,11 +63,11 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 ## Let's take a look at the BIRDS5 repositories.
 
 
-### How to Contribute:
+### I like this project, can I help you?
+You are welcome 🙂
 
-Use and Adapt: Feel free to utilize the files, code, and designs in this repository for your own CubeSat projects.
-
-Improve and Collaborate: Contribute your enhancements, modifications, or feedback to improve the quality and accessibility of CubeSat technology.
-
-By open-sourcing our resources, we aim to foster innovation, collaboration, and knowledge sharing in the CubeSat community. 
-Together, let's continue pushing the boundaries of space exploration and education.
+* Give us a star
+* Watch repository to be notified about updates
+* If you will find some bugs, report them in Issues
+* Try Birds designs on some real computer and let us know how it worked in Discussions.
+* We would greatly appreciate if you would also ... It helps us to improve BIRDS Open Source. Thank you!
