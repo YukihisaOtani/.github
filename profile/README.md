@@ -1,4 +1,4 @@
-# Welcome to the BIRDS Open Source Project Repository
+# Welcome to the BIRDS Open Source Project
 
 The BIRDS program, developed by Kyushu Institute of Technology, is an educational initiative focused on CubeSat development. 
 This repository serves as a central hub for open-sourcing files, code, and designs from the BIRDS program, enabling other entities to utilize and contribute to the advancement of CubeSat technology. The BIRDS Open Source project is committed to demonstrating lean satellite development that is well documented, easy to adapt and debug, and that caters to the needs of the entire satellite development workflow, from satellite design configurations to ground station data collection and analysis.
@@ -6,20 +6,19 @@ This repository serves as a central hub for open-sourcing files, code, and desig
 ## About the BIRDS Program:
 
 The BIRDS program provides hands-on training in satellite engineering, project management, and cross-cultural teamwork. 
-Through the development of CubeSats, students from non-space-faring nations gain practical experience and contribute to global capacity building in space technology.
-A CubeSat is a type of small satellite that is made up of multiple standard cubic units. 
-One CubeSat unit (1U) is an extremely small satellite of 10 x 10 x 10 [cm], with a mass less than 1.33 kg. 
-Originally, it was proposed as an educational tool for space engineering technology, given its small size, light mass, and low budget. 
-It is a very good representative of the “lean satellite” concept recently proposed in an International Academy of Astronautics (IAA) study. 
+Through the development of CubeSats[^1], students from non-space-faring nations gain practical experience and contribute to global capacity building in space technology.
+[^1]: A CubeSat is a type of small satellite that is made up of multiple standard cubic units. 
+  One CubeSat unit (1U) is an extremely small satellite of 10 x 10 x 10 [cm], with a mass less than 1.33 kg. 
+Originally proposed as an educational tool for space engineering technology, given its small size, light mass, and low budget, cubesats are a very good representative of the “lean satellite” concept recently proposed in an International Academy of Astronautics (IAA) study. 
 
 Kyushu Institute of Technology (Kyutech) has been carrying out its BIRDS program since 2015. In the program, inexperienced student members receive training and develop multiple 1U CubeSats. Each BIRDS project develops 1U CubeSats for the capacity building of non-space-faring nations. As of Febuary 2024, six generations of BIRDS projects have been carried
 out: 
-* BIRDS-1,
-* BIRDS-2,
-* BIRDS-3,
-* BIRDS-4,
-* BIRDS-5, and
-* BIRDS-X.
+* [BIRDS-1](https://birds1.birds-project.com/),
+* [BIRDS-2](https://birds2.birds-project.com/),
+* [BIRDS-3](https://birds3.birds-project.com/),
+* [BIRDS-4](https://birds4.birds-project.com/),
+* [BIRDS-5](https://birds5.birds-project.com/), and
+* [BIRDS-X](https://birds-x.birds-project.com/).
 
 The BIRDS program is a unique educational program that provides an excellent opportunity for learning systems
 engineering, project management, and cross-cultural teamwork, not only conventional space technologies.  
@@ -37,30 +36,19 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 
 Let's take a look at the BIRDS3 repositories.
 > [!NOTE]
-> BIRDS3 was the most successful satellite in the BIRDS family to date in terms of operation. It was launched on the 17th of April 2019 and operated for 2 years. You can [find out more about the satellite here](https://birds3.birds-project.com/).
+> BIRDS3 was the most successful satellite in the BIRDS family to date in terms of operation. It was launched on the 17th of April 2019 and operated for 2 years.
 
-[BIRDS3-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports)
-[BIRDS3-COM](https://github.com/BIRDSOpenSource/BIRDS3-COM)
-[BIRDS3-SolarPanel](https://github.com/BIRDSOpenSource/BIRDS3-SolarPanel)
-[BIRDS3-RAB](https://github.com/BIRDSOpenSource/BIRDS3-RAB)
-[BIRDS3-OBC](https://github.com/BIRDSOpenSource/BIRDS3-OBC)
-[BIRDS3-FAB](https://github.com/BIRDSOpenSource/BIRDS3-FAB)
-[BIRDS3-CAD](https://github.com/BIRDSOpenSource/BIRDS3-CAD)
-[BIRDS3-BPB](https://github.com/BIRDSOpenSource/BIRDS3-BPB)
-[BIRDS3-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
+* [BIRDS3-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports)
+* [BIRDS3-COM](https://github.com/BIRDSOpenSource/BIRDS3-COM)
+* [BIRDS3-SolarPanel](https://github.com/BIRDSOpenSource/BIRDS3-SolarPanel)
+* [BIRDS3-RAB](https://github.com/BIRDSOpenSource/BIRDS3-RAB)
+* [BIRDS3-OBC](https://github.com/BIRDSOpenSource/BIRDS3-OBC)
+* [BIRDS3-FAB](https://github.com/BIRDSOpenSource/BIRDS3-FAB)
+* [BIRDS3-CAD](https://github.com/BIRDSOpenSource/BIRDS3-CAD)
+* [BIRDS3-BPB](https://github.com/BIRDSOpenSource/BIRDS3-BPB)
+* [BIRDS3-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
 
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 
 
 ### How to Contribute:
