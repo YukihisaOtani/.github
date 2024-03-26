@@ -32,21 +32,42 @@ This treasure trove of information can seem quite daunting to someone on first e
 
 If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation) is readily available in its own repository with the complementary Interface Control documents, both in `English` and `Japanese`.
 
-### Key Features:
+The general organisation of repositories that we have adopted is sectional. So each segment of each satellite has its own repository.
+For example you will find that for each subsystem of a satellite, is a dedicated repository. The open sourcing of the BIRDS program started after the third generation of the satellite so that is where our documentation starts.
 
-Educational Focus: Practical learning experiences for students, emphasizing systems engineering and international collaboration.
+Let's take a look at the BIRDS3 repositories.
+> [!NOTE]
+> BIRDS3 was the most successful satellite in the BIRDS family to date in terms of operation. It was launched on the 17th of April 2019 and operated for 2 years. You can [find out more about the satellite here](https://birds3.birds-project.com/).
 
-Accessible Design: Utilization of commercial off-the-shelf (COTS) parts and a distributed system design for ease of use and cost-effectiveness.
+[BIRDS3-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDS3-ProceduresAndReports)
+[BIRDS3-COM](https://github.com/BIRDSOpenSource/BIRDS3-COM)
+[BIRDS3-SolarPanel](https://github.com/BIRDSOpenSource/BIRDS3-SolarPanel)
+[BIRDS3-RAB](https://github.com/BIRDSOpenSource/BIRDS3-RAB)
+[BIRDS3-OBC](https://github.com/BIRDSOpenSource/BIRDS3-OBC)
+[BIRDS3-FAB](https://github.com/BIRDSOpenSource/BIRDS3-FAB)
+[BIRDS3-CAD](https://github.com/BIRDSOpenSource/BIRDS3-CAD)
+[BIRDS3-BPB](https://github.com/BIRDSOpenSource/BIRDS3-BPB)
+[BIRDS3-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
 
-Capacity Building: Each BIRDS project aims to empower non-space-faring nations by developing CubeSats tailored to their needs.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 
 ### How to Contribute:
 
 Use and Adapt: Feel free to utilize the files, code, and designs in this repository for your own CubeSat projects.
 
 Improve and Collaborate: Contribute your enhancements, modifications, or feedback to improve the quality and accessibility of CubeSat technology.
-
-
 
 By open-sourcing our resources, we aim to foster innovation, collaboration, and knowledge sharing in the CubeSat community. 
 Together, let's continue pushing the boundaries of space exploration and education.
