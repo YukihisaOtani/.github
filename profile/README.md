@@ -34,7 +34,7 @@ If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](h
 The general organisation of repositories that we have adopted is sectional. So each segment of each satellite has its own repository.
 For example you will find that for each subsystem of a satellite, is a dedicated repository. The open sourcing of the BIRDS program started after the third generation of the satellite so that is where our documentation starts.
 
-Let's take a look at the BIRDS3 repositories.
+## Let's take a look at the BIRDS3 repositories.
 > [!NOTE]
 > BIRDS3 was the most successful satellite in the BIRDS family to date in terms of operation. It was launched on the 17th of April 2019 and operated for 2 years.
 
@@ -48,7 +48,19 @@ Let's take a look at the BIRDS3 repositories.
 * [BIRDS3-BPB](https://github.com/BIRDSOpenSource/BIRDS3-BPB)
 * [BIRDS3-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
 
+## Let's take a look at the BIRDS4 repositories.
 
+* [BIRDS4-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports)
+* [BIRDS4-COM](https://github.com/BIRDSOpenSource/BIRDS4-COM)
+* [BIRDS4-SolarPanel](https://github.com/BIRDSOpenSource/BIRDS4-SolarPanel)
+* [BIRDS4-RAB](https://github.com/BIRDSOpenSource/BIRDS4-RAB)
+* [BIRDS4-OBC](https://github.com/BIRDSOpenSource/BIRDS4-OBC)
+* [BIRDS4-FAB](https://github.com/BIRDSOpenSource/BIRDS4-FAB)
+* [BIRDS4-CAD](https://github.com/BIRDSOpenSource/BIRDS4-CAD)
+* [BIRDS4-BPB](https://github.com/BIRDSOpenSource/BIRDS4-BPB)
+* [BIRDS4-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS4-AntennaPanel)
+
+## Let's take a look at the BIRDS5 repositories.
 
 
 ### How to Contribute:
