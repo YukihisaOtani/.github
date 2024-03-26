@@ -12,9 +12,16 @@ One CubeSat unit (1U) is an extremely small satellite of 10 x 10 x 10 [cm], with
 Originally, it was proposed as an educational tool for space engineering technology, given its small size, light mass, and low budget. 
 It is a very good representative of the “lean satellite” concept recently proposed in an International Academy of Astronautics (IAA) study. 
 
-Kyushu Institute of Technology (Kyutech) has been carrying out its BIRDS program since 2015. In the program, inexperienced student members receive training and develop multiple 1U
-CubeSats. Each BIRDS project develops 1U CubeSats for the capacity building of non-space-faring nations. As of Febuary 2024, six generations of BIRDS projects have been carried
-out: BIRDS-1, BIRDS-2, BIRDS-3, BIRDS-4, BIRDS-5, and BIRDS-X. The BIRDS program is a unique educational program that provides an excellent opportunity for learning systems
+Kyushu Institute of Technology (Kyutech) has been carrying out its BIRDS program since 2015. In the program, inexperienced student members receive training and develop multiple 1U CubeSats. Each BIRDS project develops 1U CubeSats for the capacity building of non-space-faring nations. As of Febuary 2024, six generations of BIRDS projects have been carried
+out: 
+* BIRDS-1,
+* BIRDS-2,
+* BIRDS-3,
+* BIRDS-4,
+* BIRDS-5, and
+* BIRDS-X.
+
+The BIRDS program is a unique educational program that provides an excellent opportunity for learning systems
 engineering, project management, and cross-cultural teamwork, not only conventional space technologies.  
 
 The BIRDS BUS is a standard CubeSat bus of electrical design to support the BIRDS program. The design puts an emphasis on ease for beginners to learn and use it. 
