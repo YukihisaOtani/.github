@@ -20,6 +20,11 @@ engineering, project management, and cross-cultural teamwork, not only conventio
 The BIRDS BUS is a standard CubeSat bus of electrical design to support the BIRDS program. The design puts an emphasis on ease for beginners to learn and use it. 
 For example, the BIRDS BUS uses a distributed system design, not for its performance but for the easy work sharing and simple coding work involved. 
 
+## Organisation structure
+This treasure trove of information can seem quite daunting to someone on first encounter, so let's go through the repositories we have in this organisation one by one so you can find what you need with ease.
+
+If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation) is readily available in its own repository with other ICD documents.
+
 ### Key Features:
 
 Educational Focus: Practical learning experiences for students, emphasizing systems engineering and international collaboration.
