@@ -1,7 +1,7 @@
-# Welcome to the BIRDS Project Repository
+# Welcome to the BIRDS Open Source Project Repository
 
 The BIRDS program, developed by Kyushu Institute of Technology, is an educational initiative focused on CubeSat development. 
-This repository serves as a central hub for open-sourcing files, code, and designs from the BIRDS program, enabling other entities to utilize and contribute to the advancement of CubeSat technology.
+This repository serves as a central hub for open-sourcing files, code, and designs from the BIRDS program, enabling other entities to utilize and contribute to the advancement of CubeSat technology. The BIRDS Open Source project is committed to demonstrating lean satellite development that is well documented, easy to adapt and debug, and that caters to the needs of the entire satellite development workflow, from satellite design configurations to ground station data collection and analysis.
 
 ## About the BIRDS Program:
 
