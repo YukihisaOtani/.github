@@ -61,7 +61,7 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS4-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS4-AntennaPanel)
 
 ## Let's take a look at the BIRDS5 repositories.
-* [BIRDS5-CAD](https://github.com/BIRDSOpenSource/BIRDS4-CAD)
+* [BIRDS5-CAD](https://github.com/BIRDSOpenSource/BIRDS5-CAD)
 * [BIRDS5-Parts_list](https://github.com/BIRDSOpenSource/BIRDS5-Parts_list)
 * [BIRDS5-Procedures_Reports](https://github.com/BIRDSOpenSource/BIRDS5-Procedures_Reports)
 * [BIRDS5-PCB_Designs](https://github.com/BIRDSOpenSource/BIRDS5-PCB_Designs)
