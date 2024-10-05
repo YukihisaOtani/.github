@@ -73,6 +73,10 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS5-PCB_Designs](https://github.com/BIRDSOpenSource/BIRDS5-PCB_Designs)
 * [BIRDS5-Source_Codes](https://github.com/BIRDSOpenSource/BIRDS5-Source_Codes)
 
+## Let's take a look at the BIRDS bus FAQ (in Japanese) repositories.
+* [BIRDS FAQ list](https://birds-project.com/open-source/pdf/BIRDS_bus_Questions_List.pdf)
+* [BIRDS FAQ references](https://github.com/BIRDSOpenSource/BIRDS-FAQ-References)
+
 ## I like this project, can I help you?
 You are welcome 🙂
 
